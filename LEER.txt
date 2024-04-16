@@ -1,0 +1,14 @@
+-------------------------
+
+Pagina lehanSMP
+
+--------------------------
+-Agregue un menu con el cual se puede desplazar mas rapido en la pagina.
+-Ajuste el texto de abajo del menu para que no se mirara mas arriba y ahora se mire en medio, lo mismo con la el responsive.
+-ajuste el sobre lehan para que este mas ordenado.
+-agrague un boton para copiar el ip del sevidor
+-ajuste el margen de las imagenes en tienda para que tengan espacio y ajuste el hover ya que era un cuadrado ahora se adecua
+a la imagen.
+-ajuste clientes para que el texto no estuviera pegada al borde de arriba.
+-ajuste y arregle el footer(Quite la linea que tenia "leelos aqui" y "lehan23 Discord" y le agregue un hoer para cuando pasen su mouse encima. y lo ajuste en responsive ya que en celular era dificil ver las opciones.
+-agregue una funcion la cual cuando se haga click en el texto "soportelehansmp@gmail.com" este habra la aplicacion de correo predeterminada y se haga mas facil contactarlo.
